@@ -14,7 +14,7 @@ Maven (For building and running the Spring Boot application)
 How to Run the Project
 
 1. Clone the Repository
-git clone https://github.com/yourusername/spring-chatroom.git
+git clone https://github.com/SahilNijhawan02/Chatroom-spring-websocket.git
 cd spring-chatroom
 
 3. Build the Project
